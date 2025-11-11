@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1759570596615,
+    "table": "1",
+    "items": [
+      {
+        "id": 2,
+        "name": "Tiger",
+        "price": 30000,
+        "type": "Bia lon"
+      }
+    ],
+    "total": 30000,
+    "status": "completed",
+    "time": "16:36:36 4/10/2025"
+  },
+  {
+    "id": 1759570955913,
+    "table": "3",
+    "items": [
+      {
+        "id": 6,
+        "name": "Mực nướng",
+        "price": 120000,
+        "type": "Đồ nhắm"
+      }
+    ],
+    "total": 120000,
+    "status": "pending",
+    "time": "16:42:35 4/10/2025"
+  },
+  {
+    "id": 1759649795416,
+    "table": "1",
+    "items": [
+      {
+        "id": 5,
+        "name": "Khoai tây chiên",
+        "price": 50000,
+        "type": "Đồ nhắm"
+      }
+    ],
+    "total": 50000,
+    "status": "completed",
+    "time": "14:36:35 5/10/2025"
+  },
+  {
+    "id": 1759718490808,
+    "table": "1",
+    "items": [
+      {
+        "id": 6,
+        "name": "Mực nướng",
+        "price": 120000,
+        "type": "Đồ nhắm",
+        "qty": 1
+      },
+      {
+        "id": 5,
+        "name": "Khoai tây chiên",
+        "price": 50000,
+        "type": "Đồ nhắm",
+        "qty": 2
+      }
+    ],
+    "total": 220000,
+    "status": "completed",
+    "time": "09:41:30 6/10/2025"
+  },
+  {
+    "id": 1759718539811,
+    "table": "1",
+    "items": [
+      {
+        "id": 4,
+        "name": "Saigon Special",
+        "price": 25000,
+        "type": "Bia chai",
+        "qty": 4
+      }
+    ],
+    "total": 100000,
+    "status": "completed",
+    "time": "09:42:19 6/10/2025"
+  },
+  {
+    "id": 1759718869067,
+    "table": "1",
+    "items": [
+      {
+        "id": 1,
+        "name": "Heineken",
+        "price": 35000,
+        "type": "Bia chai",
+        "qty": 2
+      }
+    ],
+    "total": 70000,
+    "status": "completed",
+    "time": "09:47:49 6/10/2025"
+  },
+  {
+    "id": 1759720122065,
+    "table": "1",
+    "items": [
+      {
+        "id": 2,
+        "name": "Tiger",
+        "type": "Bia lon",
+        "price": 30000,
+        "stock": 15
+      }
+    ],
+    "total": 30000,
+    "status": "completed",
+    "time": "10:08:42 6/10/2025"
+  },
+  {
+    "id": 1759722165669,
+    "table": "1",
+    "items": [
+      {
+        "id": 3,
+        "name": "Budweiser",
+        "type": "Bia lon",
+        "price": 40000,
+        "stock": 8,
+        "qty": 2
+      }
+    ],
+    "total": 80000,
+    "status": "completed",
+    "time": "10:42:45 6/10/2025"
+  },
+  {
+    "id": 1759722992392,
+    "table": "1",
+    "items": [
+      {
+        "id": 5,
+        "name": "Khoai tây chiên",
+        "type": "Đồ nhắm",
+        "price": 50000,
+        "stock": 10,
+        "qty": 4
+      }
+    ],
+    "total": 200000,
+    "status": "pending",
+    "time": "10:56:32 6/10/2025"
+  },
+  {
+    "id": 1759725257111,
+    "table": "1",
+    "items": [
+      {
+        "id": 4,
+        "name": "Saigon Special",
+        "type": "Bia chai",
+        "price": 25000,
+        "stock": 20,
+        "qty": 7
+      }
+    ],
+    "total": 175000,
+    "status": "pending",
+    "time": "11:34:17 6/10/2025"
+  },
+  {
+    "id": 1759725353225,
+    "table": "1",
+    "items": [
+      {
+        "id": 1,
+        "name": "Heineken",
+        "type": "Bia chai",
+        "price": 35000,
+        "stock": 10,
+        "qty": 3
+      }
+    ],
+    "total": 105000,
+    "status": "pending",
+    "time": "11:35:53 6/10/2025"
+  }
+]

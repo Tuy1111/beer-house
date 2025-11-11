@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Heineken", "type": "Bia chai", "price": 35000, "stock": 10 },
+  { "id": 2, "name": "Tiger", "type": "Bia lon", "price": 30000, "stock": 15 },
+  { "id": 3, "name": "Budweiser", "type": "Bia lon", "price": 40000, "stock": 8 },
+  { "id": 4, "name": "Saigon Special", "type": "Bia chai", "price": 25000, "stock": 20 },
+  { "id": 5, "name": "Khoai tây chiên", "type": "Đồ nhắm", "price": 50000, "stock": 10 },
+  { "id": 6, "name": "Mực nướng", "type": "Đồ nhắm", "price": 120000, "stock": 5 }
+]
