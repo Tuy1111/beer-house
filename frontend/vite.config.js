@@ -4,10 +4,10 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  build: {
-    outDir: path.resolve(__dirname, '../backend/public'), // build ra backend/public
-    emptyOutDir: true
-  },
+  // build: {
+  //   outDir: path.resolve(__dirname, '../backend/public'), // build ra backend/public
+  //   emptyOutDir: true
+  // },
   server: {
     host: true,  // cho phép truy cập từ mạng LAN
     port: 5173
